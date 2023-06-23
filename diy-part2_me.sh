@@ -36,3 +36,4 @@ rm -rf .package/sirpdboy-package/luci-app-autotimeset
 # svn co https://github.com/Lienol/openwrt-packages/trunk/net/https-dns-proxy feeds/packages/net/https-dns-proxy
 # rm -rf feeds/packages/lang/golang
 # svn export https://github.com/sbwml/packages_lang_golang/trunk feeds/packages/lang/golang
+rm -rf package/lean/autocore
